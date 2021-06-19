@@ -1,0 +1,2 @@
+01 - instala py7zr
+02 - Instala pandas
